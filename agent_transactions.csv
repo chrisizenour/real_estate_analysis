@@ -1,0 +1,75 @@
+mls_num,use,type,type_description,street_address,city,list_price,sold_price,list_date,sold_date,days_on_market,list_to_close_days,ratification_to_close_days,list_year,sold_year,,
+1000295275,1,listed_coop_sold,sell,8935 Sweetbriar,Manassas,337500,337500,3/25/16,4/29/16,5,36,31,2016,2016,,1000295275
+1000321115,0,coop_listed_sold,buy,4205 Roeburn,Woodbridge,974990,936500,7/6/16,12/30/16,117,178,61,2016,2016,,#N/A
+1000341439,0,coop_listed_sold,buy,6914 Bitterroot,Gainesville,465000,475000,9/21/16,10/28/16,4,38,34,2016,2016,,1000341439
+1000355417,0,coop_listed_sold,buy,8214 Winstead #102,Manassas,199000,190000,11/16/16,12/28/16,12,43,31,2016,2016,,#N/A
+1001324077,0,coop_listed_sold,buy,755 Aylor,Stephens City,220000,213000,6/8/15,5/4/16,250,332,82,2015,2016,,#N/A
+1002604652,0,coop_listed_sold,buy,River Mill Rd,Richardsville,58999,55000,5/7/15,4/20/16,313,350,37,2015,2016,,#N/A
+1002614678,0,coop_listed_sold,buy,0 River Mill Road,Richardsville,58999,55000,5/18/15,4/20/16,302,339,37,2015,2016,,#N/A
+1000266091,0,colist_cosold,alternate_agent,8365 Shady Grove,Manassas,214997,221500,9/24/15,5/5/16,146,225,79,2015,2016,,#N/A
+1000266703,0,colist_cosold,alternate_agent,7413 Rokeby,Manassas,164997,167500,9/24/15,3/9/16,42,168,126,2015,2016,,#N/A
+1000307045,0,colist_cosold,alternate_agent,9423 Wilcoxen,Manassas Park,259997,260000,5/4/16,9/5/16,96,125,29,2016,2016,,#N/A
+1000309749,0,colist_cosold,alternate_agent,8052 Hilliard,Manassas,259997,256000,5/11/16,10/31/16,11,174,163,2016,2016,,#N/A
+1000328241,0,colist_cosold,alternate_agent,10371 Butternut,Manassas,289997,285000,7/29/16,12/19/16,111,144,33,2016,2016,,#N/A
+1000329199,0,colist_cosold,alternate_agent,9023 Phita,Manassas Park,339997,340000,7/29/16,11/30/16,76,125,49,2016,2016,,#N/A
+1000331433,0,colist_cosold,alternate_agent,7941 Rebel Walk,Manassas,259997,249997,8/13/16,11/28/16,63,108,45,2016,2016,,#N/A
+1000344577,0,colist_cosold,alternate_agent,10998 Koman #304,Manassas,191997,191997,9/30/16,12/19/16,16,81,65,2016,2016,,#N/A
+1000172637,1,listed_coop_sold,sell,8420 Tackhouse,Gainesville,349000,349000,7/26/17,9/29/17,7,66,59,2017,2017,,#N/A
+1000368267,1,listed_coop_sold,sell,7595 Gales #4B-101,Manassas,119900,110000,2/8/17,3/23/17,19,44,25,2017,2017,,#N/A
+1000368739,1,listed_coop_sold,sell,9283 Sumner Lake,Manassas,549900,553000,2/15/17,5/12/17,12,87,75,2017,2017,,1000368739
+1000381843,1,listed_coop_sold,sell,9000 Sandalwood #D,Manassas,195000,182000,4/5/17,8/18/17,96,136,40,2017,2017,,#N/A
+1000385543,1,listed_coop_sold,sell,11008 Sentry Ridge #5,Manassas,199999,195000,4/27/17,8/14/17,68,110,42,2017,2017,,#N/A
+1000389835,1,listed_coop_sold,sell,13307 Maple Leaf,Woodbridge,299999,300000,7/12/17,8/18/17,4,38,34,2017,2017,,#N/A
+1000390055,1,listed_coop_sold,sell,8635 Swann,Manassas Park,249900,245000,7/15/17,8/22/17,5,39,34,2017,2017,,#N/A
+1000390671,1,listed_coop_sold,sell,9789 Mock Orange,Manassas,249999,232000,7/11/17,8/15/17,5,36,31,2017,2017,,#N/A
+1000983977,1,listed_coop_sold,sell,6773 River,Manassas,449000,440000,9/13/17,11/22/17,46,71,25,2017,2017,,1000983977
+1001639763,1,listed_coop_sold,sell,7235 Princess Anne,Warrenton,354900,354000,1/8/17,3/20/17,21,72,51,2017,2017,,#N/A
+1001640931,1,listed_coop_sold,sell,7313 Hunton,Warrenton,342500,342500,5/14/17,8/18/17,101,97,-4,2017,2017,,#N/A
+1001788297,1,listed_coop_sold,sell,517 Florida #202,Herndon,169900,171900,3/23/17,5/5/17,13,44,31,2017,2017,,#N/A
+1004121557,1,listed_coop_sold,sell,8017 Hilliard,Manassas,324999,325000,11/9/17,12/15/17,10,37,27,2017,2017,,#N/A
+1000379225,0,coop_listed_sold,buy,8853 Old Lewis,Manassas,445000,445000,4/1/17,6/23/17,27,84,57,2017,2017,,1000379225
+1002121356,1,listed_sold,dual,9026 Coriander,Manassas,299000,305000,6/14/18,7/13/18,0,30,30,2018,2018,,#N/A
+VAPW100302,1,listed_sold,dual,10629 Provincial #C,Manassas,162000,154000,11/1/18,11/1/18,0,1,1,2018,2018,,#N/A
+1000361786,1,listed_coop_sold,sell,1610 Mountain,Haymarket,374999,375000,4/6/18,5/30/18,11,55,44,2018,2018,,1000361786
+1000426604,1,listed_coop_sold,sell,6914 Bitterroot,Gainesville,489999,495000,4/25/18,6/27/18,29,64,35,2018,2018,,1000426604
+1000426798,1,listed_coop_sold,sell,10170 Wilmington,Manassas,224999,231000,4/20/18,7/2/18,7,74,67,2018,2018,,#N/A
+1000450686,1,listed_coop_sold,sell,7804 Flagler,Manassas,324999,324999,4/26/18,6/8/18,12,44,32,2018,2018,,#N/A
+1001184340,1,listed_coop_sold,sell,8646 Sumter,Manassas Park,224999,223000,5/11/18,6/28/18,6,49,43,2018,2018,,#N/A
+1001950134,1,listed_coop_sold,sell,8309 Tillett,Manassas,441000,441000,6/27/18,7/12/18,17,16,-1,2018,2018,,1001950134
+1002346450,1,listed_coop_sold,sell,11913 Smithfield,Manassas,364999,340000,8/30/18,11/30/18,53,93,40,2018,2018,,1002346450
+1003289680,1,listed_coop_sold,sell,7579 Margate #3,Manassas,124999,124999,9/10/18,10/15/18,17,36,19,2018,2018,,#N/A
+VAMN100010,1,listed_coop_sold,sell,8353 Felsted,Manassas,174999,183000,10/31/18,11/30/18,8,31,23,2018,2018,,#N/A
+1000363376,0,coop_listed_sold,buy,6449 Waterdale,Bealeton,348888,345000,4/6/18,6/26/18,19,82,63,2018,2018,,#N/A
+1002013606,0,coop_listed_sold,buy,14076 Cannondale,Gainesville,339000,339000,7/10/18,8/21/18,5,43,38,2018,2018,,#N/A
+1002149434,0,coop_listed_sold,buy,9578 Buttonbush,Manassas,240000,240000,8/2/18,9/25/18,8,55,47,2018,2018,,#N/A
+1004472545,0,coop_listed_sold,buy,12481 Manchester,Woodbridge,330950,330000,1/22/18,2/28/18,6,38,32,2018,2018,,#N/A
+1005468057,0,coop_listed_sold,buy,9552 Cannoneer #102,Manassas,138000,135000,1/28/18,3/2/18,23,34,11,2018,2018,,#N/A
+1005958667,0,coop_listed_sold,buy,9404 Tarra #301,Manassas,190000,185000,8/6/18,9/17/18,5,43,38,2018,2018,,#N/A
+1007546104,0,coop_listed_sold,buy,12030 Kemps Landing,Manassas,360000,355000,9/29/18,12/19/18,32,82,50,2018,2018,,#N/A
+1002345500,1,listed_coop_sold,sell,14724 Winterfield,Centreville,410000,417000,8/30/18,1/11/19,103,135,32,2018,2019,,#N/A
+VAMN100013,1,listed_coop_sold,sell,8919 Quarry,Manassas,339999,340000,8/1/19,10/8/19,8,69,61,2019,2019,,#N/A
+VAMN138342,1,listed_coop_sold,sell,9732 Pickett,Manassas,224900,215000,10/17/19,11/15/19,8,30,22,2019,2019,,#N/A
+VAPW432086,1,listed_coop_sold,sell,7787 Fern Oak,Manassas,414900,415000,2/13/19,5/30/19,54,107,53,2019,2019,,VAPW432086
+VAPW474548,1,listed_coop_sold,sell,10459 Labrador,Manassas,439999,445000,7/25/19,8/29/19,2,36,34,2019,2019,,VAPW474548
+VAPW475184,1,listed_coop_sold,sell,8099 Lacy #101,Manassas,210000,212000,7/25/19,8/30/19,14,37,23,2019,2019,,#N/A
+VAPW480200,1,listed_coop_sold,sell,4107 Mount Atlas,Haymarket,395000,400000,10/2/19,10/21/19,4,20,16,2019,2019,,VAPW480200
+VAMN138052,0,coop_listed_sold,buy,9327 Woodlea,Manassas,169999,160000,10/1/19,12/5/19,33,66,33,2019,2019,,#N/A
+VAFQ165798,1,listed_coop_sold,sell,511 Highland Towne,Warrenton,315000,315000,6/22/20,7/6/20,0,15,15,2020,2020,,#N/A
+VAMP114154,1,listed_coop_sold,sell,9556 Walker,Manassas Park,255000,255000,7/17/20,8/7/20,14,22,8,2020,2020,,#N/A
+VAPW472988,1,listed_coop_sold,sell,5712 Yewing,Gainesville,899999,899999,7/5/19,2/25/20,203,236,33,2019,2020,,VAPW472988
+VAPW487094,1,listed_coop_sold,sell,12335 Sherborne,Bristow,524999,527000,2/10/20,4/28/20,3,79,76,2020,2020,,VAPW487094
+VAPW487732,1,listed_coop_sold,sell,9625 Laurencekirk,Bristow,524999,522000,2/14/20,3/27/20,7,43,36,2020,2020,,VAPW487732
+VAPW498766,1,listed_coop_sold,sell,8634 Newton,Manassas,275000,275000,7/3/20,7/29/20,5,27,22,2020,2020,,#N/A
+VAFX1149450,0,coop_listed_sold,buy,5872 Bridgeton #50,Burke,384900,390000,10/14/20,11/30/20,6,48,42,2020,2020,,#N/A
+VAMN139398,0,coop_listed_sold,buy,9569 Coggs Bill #102,Manassas,174500,175000,4/28/20,6/30/20,31,64,33,2020,2020,,#N/A
+VAPW496830,0,coop_listed_sold,buy,7021 Manahoac,Gainesville,384900,390000,6/18/20,7/31/20,6,44,38,2020,2020,,#N/A
+VAPW520948,0,coop_listed_sold,buy,8698 Belle Grove,Manassas,642900,642900,4/26/21,5/27/20,0,-333,-333,2021,2020,,VAPW520948
+VALO428754,1,listed_coop_sold,sell,402 Autumn Olive,Sterling,524999,522000,1/11/21,2/26/21,17,47,30,2021,2021,,#N/A
+VAPW515698,1,listed_coop_sold,sell,11268 Wortham Crest #08,Manassas,299999,300000,3/11/21,4/2/21,0,23,23,2021,2021,,#N/A
+VAPW517998,1,listed_coop_sold,sell,13198 Kirkmichael,Bristow,574999,625000,3/25/21,4/30/21,3,37,34,2021,2021,,VAPW517998
+VAMN141710,1,listed_coop_sold,sell,9404 Tarra Ln,Manassas,227500,227500,4/22/21,6/22/21,11,62,51,2021,2021,,#N/A
+VAMN141456,1,listed_coop_sold,sell,8886 Quarry Rd,Manassas,424999,438000,3/26/21,5/17/21,6,53,47,2021,2021,,#N/A
+VAMN141736,1,listed_coop_sold,sell,8924 Longstreet Dr,Manassas,599999,629000,4/29/21,6/1/21,0,34,34,2021,2021,,VAMN141736
+VAPW516932,0,coop_listed_sold,buy,11951 Bluegrass Ct,Nokesville,699999,725000,3/24/21,4/30/21,4,38,34,2021,2021,,VAPW516932
+VAMN142132,1,listed_coop_sold,sell,8683 Point of Woods,Manassas,359000,373000,6/10/21,7/9/21,5,30,25,2021,2021,,#N/A
+VAFX2004794,0,coop_listed_sold,buy,4300 Valiant,Annandale,700000,700000,7/1/21,6/29/21,0,-1,-1,2021,2021,,#N/A
